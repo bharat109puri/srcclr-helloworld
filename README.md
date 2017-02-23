@@ -1,2 +1,1 @@
-# srcclr-helloworld
-source clear hello world
+Test file
